@@ -24,3 +24,5 @@ Requirements: Windows 10/11 with Edge or Chrome. Nothing to install: it only use
 direct links expire, so paste them into your downloader soon after converting. It’s a plain-text script, so you can read exactly what it does before running it. Windows SmartScreen may warn about the .bat. Only use it for files you have the right to download.
 
 AI disclosure: it was made with Claude to scracth my own needs if you like it, use it at your discretion. 
+
+Download the latest release https://github.com/RunTestWork/MF-Linkgrabber/releases/tag/a
